@@ -23,3 +23,7 @@
         </form>
     </div>
 </footer>
+
+</body>
+
+</html>
